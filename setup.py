@@ -145,7 +145,6 @@ setup(
         "ldoce5viewer.qtgui.ui",
         "ldoce5viewer.qtgui.resources",
         "ldoce5viewer.qtgui.utils",
-        "ldoce5viewer.qtgui.utils.mp3play",
         "ldoce5viewer.utils",
         "ldoce5viewer.ldoce5",
     ],
